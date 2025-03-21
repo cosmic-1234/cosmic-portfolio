@@ -4,7 +4,7 @@ import {FiMail, FiMapPin, FiPhone, FiLinkedin} from "react-icons/fi"
 const Contact = ()=>
 {
     return (
-      <div id="contact" className="flex flex-col md:flex-row items-center justify-center py-12 px-4 md:px-12 lg:px-24 bg-gray-50 bg-gradient-to-t from-white to-yellow-200">
+      <div id="contact" className="flex flex-col md:flex-row items-center justify-center py-12 px-4 md:px-12 lg:px-24 bg-gray-50 bg-gradient-to-t from-white to-yellow-100">
 
         <div className="flex flex-1 flex-col px-6 mb-14">
             <h2 className="text-2xl md:text-3xl font-semibold mb-4 text-gray-700">Contact</h2>

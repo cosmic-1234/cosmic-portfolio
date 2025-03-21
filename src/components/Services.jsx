@@ -21,13 +21,13 @@ const Services = ()=>{
             <div className="bg-gray-50 rounded-lg shadow-lg p-6">
                 <img className="w-full h-48 object-cover rounded-lg mb-4" src={web2} alt="image" />
                <h3 className="text-2xl font-semibold text-gray-950 mb-2">Paybay App</h3>
-               <p className="text-gray-600 mb-4">Created a real time money Transfor application using express.js, MongoDB, and used libraries such as ZOD for input validation.
+               <p className="text-gray-600 mb-4">Created a real time money Transfer application using express.js, MongoDB, and used libraries such as ZOD for input validation.
                 for frontend used React.js
                </p>
             </div>
         </div>
         <div className="mt-8 text-right">
-            <a className="flex items-center justify-end text-yellow-600 font-semibold hover:text-amber-100" href="https://github.com/cosmic-1234">Explore Projects on Github <FaArrowRight className="ml-2"/></a>
+            <a className="flex items-center justify-end text-yellow-600 font-semibold hover:text-amber-300" href="https://github.com/cosmic-1234">Explore Projects on Github <FaArrowRight className="ml-2"/></a>
         </div>
      </div>
     )

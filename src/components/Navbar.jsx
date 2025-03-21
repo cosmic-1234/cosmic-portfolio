@@ -34,7 +34,7 @@ return(
             ))
            }
            </div>
-           <a href = {CV} download = "CV_Shrirang_Wanikar-2025.pdf" className="text-lg bg-amber-500 text-black px-4 py-2 rounded hover:bg-amber-700">Resume</a>
+           <a href = {CV} download = "CV_Shrirang_Wanikar-2025.pdf" className="text-lg bg-amber-500 text-black px-4 py-2 rounded hover:bg-amber-700 duration-500">Resume</a>
         </div>
         <div className="flex w-full justify-between items-center md:hidden p-2 shadow-sm">
             <div className=" text-xl font-bold flex items-center gap-2">
@@ -59,7 +59,7 @@ return(
                     </li>
             ))
            }
-           <a href = {CV} download = "CV_Shrirang_Wanikar-2025.pdf" className="text-lg bg-amber-500 text-black px-4 py-2 mt-3 rounded hover:bg-amber-700">Resume</a>
+           <a href = {CV} download = "CV_Shrirang_Wanikar-2025.pdf" className="text-lg bg-amber-500 text-black px-4 py-2 mt-3 rounded hover:bg-amber-700 duration-700">Resume</a>
                 </div>
             )}
         </div>

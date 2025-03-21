@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 import wbdev from "../assets/web-devlopment.svg"
 const Hero = ()=>{
     return (
-<div className="text-black flex flex-col-reverse md:flex-row justify-center items-center py-10 px-5 sm:px-10  lg:px-40 bg-gradient-to-t from-white to-yellow-200">
+<div className="text-black flex flex-col-reverse md:flex-row justify-center items-center py-10 px-5 sm:px-10  lg:px-40 bg-gradient-to-t from-white to-yellow-100">
     <div className="w-full md:w-1/2 mb-10 text-center md:text-left mt-25">
        <h3 className="text-base md:text-lg lg:text-xl mb-0 md:-mb-2 text-amber-600 ">Hello, I am</h3>
        <h1 className="text-2xl md:text-4xl lg:text-6xl my-0 md:ml-1 font-bold text-amber-900 py-2 md:py-2">Shrirang Wanikar</h1> 
